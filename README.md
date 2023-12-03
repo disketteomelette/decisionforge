@@ -2,7 +2,6 @@
 Experiment aimed at developing an interactive adventure book for PC, catering to narrative rogue-like games, all within a web-based environment. /// Experimento destinado a desarrollar un libro de aventuras interactivo para PC, dirigido a juegos narrativos tipo rogue-like, todo dentro de un entorno basado en la web.
 
 ![Captura del index de DecisionForge](cap1.jpg)
-![Captura de una pantalla de juego en DecisionForge](cap2.jpg)
 
 It's a PHP script, so simply set up a local development server and access it from your favorite web browser. /// Es un script en PHP, por lo que simplemente establece un servidor de desarrollo en local y accede desde tu navegador web favorito.
 
@@ -46,3 +45,7 @@ Importante: Puedes agregar tantos botones (opciones) como desees, simplemente si
 Imágenes: Cada vez que el script carga una pantalla, carga la imagen cuyo nombre es igual al ID y está en la carpeta 'images', con la extensión JPG. Simplemente coloca la imagen allí con el nombre que coincida con el ID. Ejemplo: ID: AAAAAAAAA, imagen: AAAAAAAAA.jpg
 
 Para mantener el estado actual del juego, simplemente copia la URL actual (por ejemplo, ayyYprXF4uHg4N7Gcpk6). En la página principal, encontrarás un cuadro de texto para pegarlo y dirigirte directamente a esa pantalla.
+
+# Screenshots / Capturas
+
+![Captura de una pantalla de juego en DecisionForge](cap2.jpg)
