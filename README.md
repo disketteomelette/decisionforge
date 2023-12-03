@@ -1,5 +1,5 @@
 # decisionforge
-Experiment aimed at developing an interactive adventure book for PC, catering to narrative rogue-like games, all within a web-based environment. /// Experimento destinado a desarrollar un libro de aventuras interactivo para PC, dirigido a juegos narrativos tipo rogue-like, todo dentro de un entorno basado en la web.
+This is a experiment to create an interactive adventure book for PC, catering to narrative rogue-like games, all within a web-based environment. /// Experimento destinado a desarrollar un libro de aventuras interactivo para PC, dirigido a juegos narrativos tipo rogue-like, todo dentro de un entorno basado en la web.
 
 ![Captura del index de DecisionForge](cap1.jpg)
 
