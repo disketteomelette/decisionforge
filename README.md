@@ -6,7 +6,7 @@ Experiment aimed at developing an interactive adventure book for PC, catering to
 It's a PHP script, so simply set up a local development server and access it from your favorite web browser. /// Es un script en PHP, por lo que simplemente establece un servidor de desarrollo en local y accede desde tu navegador web favorito.
 
 # Explaination
-In this example, we have the fictional game 'Crónicas de la Ilusión' as a reference. The script of the game has been created by ChatGPT and images are also AI generated with Stable Diffusion. This is a example on how to create a easy framework for interactive adventure book-type games. 
+In this example, we have the fictional game 'Crónicas de la Ilusión' as a reference. The script of the game has been created by ChatGPT and images are also AI generated with Stable Diffusion based on ChatGPT script. This is a example on how to create a easy framework for interactive adventure book-type games. 
 
 The format of each line is as follows:
 
@@ -27,7 +27,7 @@ To keep your actual game state, simpy copy the UI in the actual URL (i.ex. ayyYp
 
 # Explicación
 
-En este ejemplo, tenemos el juego ficticio 'Crónicas de la Ilusión' como referencia. El guión del juego ha sido creado por ChatGPT y las imágenes también se generan mediante Stable Diffusion. Este es un ejemplo de cómo crear un marco sencillo para juegos interactivos tipo libro de aventuras.
+En este ejemplo, tenemos el juego ficticio 'Crónicas de la Ilusión' como referencia. El guión del juego ha sido creado por ChatGPT y las imágenes han sido generadas por Stable Diffusion en base a la historia que escribió el primero. Este es un ejemplo de cómo crear un marco sencillo para juegos interactivos tipo libro de aventuras.
 
 El formato de cada línea es el siguiente:
 
@@ -44,7 +44,7 @@ Importante: Puedes agregar tantos botones (opciones) como desees, simplemente si
 
 Imágenes: Cada vez que el script carga una pantalla, carga la imagen cuyo nombre es igual al ID y está en la carpeta 'images', con la extensión JPG. Simplemente coloca la imagen allí con el nombre que coincida con el ID. Ejemplo: ID: AAAAAAAAA, imagen: AAAAAAAAA.jpg
 
-Para mantener el estado actual del juego, simplemente copia la URL actual (por ejemplo, ayyYprXF4uHg4N7Gcpk6). En la página principal, encontrarás un cuadro de texto para pegarlo y dirigirte directamente a esa pantalla.
+Para mantener el estado actual del juego, simplemente copia el identificador único de la URL actual (por ejemplo, ayyYprXF4uHg4N7Gcpk6). En la página principal, encontrarás un cuadro de texto para pegarlo y dirigirte directamente a esa pantalla.
 
 # Screenshots / Capturas
 
